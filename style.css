@@ -1,0 +1,16 @@
+hr{
+	width: 200px;
+	border-top: 2px solid #999;
+}
+section {
+	min-height: 500px;
+}
+.about{
+	min-height: 300px;
+}
+.Contact {
+	min-height: 400px;
+}
+.portfolio{
+	background-color: #eee
+}
